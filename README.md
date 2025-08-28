@@ -19,7 +19,7 @@ Download the .zip file of the 3D Model:
 1. Open Blender and Create a new General file
   
 2. On the top right delete all scene objects
-  - On keyboard, press 'a' to select all objects, then press 'x' to delete them
+  - Note: On keyboard, press 'a' to select all objects, then press 'x' to delete them
 
 3. On the top left click on 'File' then goto 'Import' and click on 'FBX' to import from your files
 
@@ -27,5 +27,6 @@ Download the .zip file of the 3D Model:
 
 ## Rendering Textures onto 3D Model
 
-1. On the top right, click on the circle Render circle
+1. On the top right, click on the circle farthest to the right to render the model\
 ![renderCircle_image](render_image.png)
+  - Note: It is the circle highlighted in blue
