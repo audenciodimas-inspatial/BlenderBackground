@@ -28,3 +28,4 @@ Download the .zip file of the 3D Model:
 ## Rendering Textures onto 3D Model
 
 1. On the top right, click on the circle Render circle
+![renderCircle_image](render_image.png)
