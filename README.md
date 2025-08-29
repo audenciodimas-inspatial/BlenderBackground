@@ -31,4 +31,4 @@ Download the .zip file of the 3D Model:
 ![renderCircle_image](render_image.png)
   - Note: It is the circle highlighted in blue
 2. Enable Node Wrangler to automatically format textures
-  - Note: On the top left goto 'Edit' -->
+  - Note: On the top left goto 'Edit' --> 'Preferences' --> 'Add ons' --> type 'Node Wrangler' and check it off
