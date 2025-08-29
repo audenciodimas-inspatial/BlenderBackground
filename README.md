@@ -30,3 +30,5 @@ Download the .zip file of the 3D Model:
 1. On the top right, click on the circle farthest to the right to render the model\
 ![renderCircle_image](render_image.png)
   - Note: It is the circle highlighted in blue
+2. Enable Node Wrangler to automatically format textures
+  - Note: On the top left goto 'Edit' -->
