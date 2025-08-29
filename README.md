@@ -14,7 +14,7 @@ Download the .zip file of the 3D Model:
 
   - Note: Once you download and unzip the file, make sure you open it and unzip all three internal files
 
-## Importing Model on Blender
+## Importing 3D Model on Blender
 
 1. Open Blender and Create a new General file
   
@@ -32,3 +32,20 @@ Download the .zip file of the 3D Model:
   - Note: It is the circle highlighted in blue
 2. Enable Node Wrangler to automatically format textures
   - Note: On the top left goto 'Edit' --> 'Preferences' --> 'Add ons' --> type 'Node Wrangler' and check it off
+
+3. Select an Object and go to Shader Editor (ex: background)
+   - Note: Hover mouse on the top right of the screen in the workspace until the pointer turns into a crosshair then drag and click to split
+     *ADD DEMO
+   - Click on Shade Editor button
+
+4. Click on Principled BSDF and open the Node Wrangler tab then click on 'Add Principled Setup'
+
+5. Go to the file of the 3D model and open the maps folder then drag and drop the 'view5' image onto the Shader Editor workspace
+   
+7. Connect the Color node from 'view5' to the Base color node in Principled BSDF
+
+
+## Exporting 3D Model
+1. Select all objects by pressing 'A' key then go to File and Export as .glb file
+2. Deactivate the 'Animation' box and activate 'Selected Objects' in the 'Include' dropbox
+3. Click 'Export to glTF'
